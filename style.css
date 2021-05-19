@@ -1,0 +1,53 @@
+
+body{
+    text-align: left;
+    background-color:rgb(160, 231, 231) ;
+}
+h1{
+    color:rgb(163, 108, 41);
+    text-align:center;
+    font-family: Cambria;
+}
+.im{
+    text-align: center;
+    border-color: rgb(241, 25, 140);
+    border-width: 4;
+    border:solid;
+    padding: 5px;
+}
+span{
+    padding-right: 30px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    border:2px solid brown;
+    justify-content: space-around;
+}
+.item{
+    display:flexbox;
+    border-radius: 20px;
+    background-color: burlywood;
+    width: 320px;
+    font-family: fantasy;
+    justify-content: center;
+    padding: 10px;
+    margin: 15px;
+    
+}
+.menu{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif ;
+    font-weight:400;
+    background-color: rgb(241, 82, 241);
+}
+h3{
+    font-family: Gill Sans MT ;
+    font-size: 20px;
+     background-color: rgb(196, 171, 60);
+}
+hr{
+    background-color: blueviolet;
+}
